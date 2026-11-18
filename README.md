@@ -47,3 +47,12 @@ The explosion effect:
 The cull distance with the stats of the cull distance in the photo as well:
 
 ![](images/culldistance%20example.png)
+
+
+## Asset References, for the assets that Sam added into the game:
+
+Stylized Floating Slums ( Stylized Floating Floating Abandoned City City 3D ) (s.d.) At: Stylized Floating Slums ( Stylized Floating Floating Abandoned City City 3D ) | Fab (Accessed 09/11/2026)
+
+FANTASTIC - Dungeon Pack (s.d.) At: FANTASTIC - Dungeon Pack | Fab (Accessed 09/11/2026).
+
+[Wooden target 01v1 | Fab](https://fab.com/s/8774b91d24f5)
